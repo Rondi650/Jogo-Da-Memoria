@@ -32,5 +32,3 @@ Com uso de IA (Anthropic)
 ---
 
 Divirta-se jogando e treinando sua memória!
-
-teste
