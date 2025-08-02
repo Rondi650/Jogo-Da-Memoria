@@ -1,6 +1,6 @@
 # Jogo da Memória - Call Center
 
-Este projeto é um jogo da memória temático de Call Center, desenvolvido em HTML, CSS e JavaScript.
+Este projeto é um jogo da memória temático de Call Center desenvolvido via IA, desenvolvido em HTML, CSS e JavaScript.
 
 ## Como jogar
 
